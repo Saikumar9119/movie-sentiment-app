@@ -40,7 +40,7 @@ movie-sentiment-app/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/movie-sentiment-app.git
+git clone https://github.com/Saikumar9119/movie-sentiment-app.git
 cd movie-sentiment-app
 ```
 
